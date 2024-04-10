@@ -3,7 +3,7 @@
     https://47.122.18.2 (复制去浏览器~)
     https://cloudupup15.com (复制去浏览器~)
 
- ~新用户~：
+ ~新用户~ios
 注册、购买套餐、下载软件、导入订阅地址。
  ~老用户~：
  官网续费、更新订阅/线路、下载新客户端
@@ -80,11 +80,17 @@ https://help.cloudupup.com/ios/Shadowrocket.html`,img:""},{title:"(图) iOS切�
 5. 返回Shadowrocket,线路已经刷新
 6. 选择任何国家的节点,在Shadowrocket中将全局路由改为'代理'模式,连接即可使用
 
-!!请确保在软件内检查是否过期,并确认是否有足够的流量!!`,img:""},{title:"(图) iOS更新订阅",content:"",img:o(6161)},{title:"共享ID不可用",content:String.raw`在官网重新登陆刷新一下页面就会刷新出新的共享ID
+!!请确保在软件内检查是否过期,并确认是否有足够的流量!!`,img:""},{title:"(图) iOS更新订阅",content:"",img:o(6161)},{title:"美区ID无法登录",content:String.raw`美区id无法登录：
+1、您需要用手机开热点 ipad链接，或者手机用数据方式链接，因为美国appstore是苹果内网，对大陆的宽带网络不友好，被中国限制，手机流量4g/5g网络可以
+2、如果是安全问题，您选择，其他选项，不升级
+3、如果id有问题，换其他id尝试即可
+(在官网重新登陆刷新一下页面就会刷新出新的共享ID)
 可以使用新的美区共享ID登陆
 要记得在20分钟后退出(每20分钟更改一次密码)`,img:""}],windows:[{title:"(图) upup使用教程",content:"",img:o(2685)},{title:"V2ray更新upup",content:String.raw`v2ray如无法使用，使用新的客户端:cloudupup(红色图标)
 新客户端更简洁的页面, 更方便的操作
 自动化更新, 内含永久客服, 官网账号密码登录即可。
+
+前往官网下载安装即可立刻使用:
     https://cloudupup.net (复制去浏览器~)
     https://47.122.18.2 (复制去浏览器~)
     https://cloudupup14.com (复制去浏览器~)
@@ -142,4 +148,4 @@ https://help.cloudupup.com/mac/clash.html`,img:""},{title:"(图) mac允许未知
 下载地址：https://github.com/hideuvpn/android-google-play-store
 
 3. 麻烦提供您所用的线路名称，我们检查一下，您可以先换其他线路测试，可以试试美国等其他线路。`,img:""}]}},getters:{items(e){return e.items},ios(e){return e.ios},windows(e){return e.windows},mac(e){return e.mac},android(e){return e.android},app(e){return e.app}},mutations:{preloadImages(e){const t=[...e.items,...e.app,...e.ios,...e.windows,...e.mac,...e.android];t.forEach((e=>{if(""!==e.img){const t=new Image;t.src=e.img,t.onload=()=>{localStorage.setItem(e.img,t.src)}}}))}},actions:{preloadImages({commit:e}){e("preloadImages")}}});var R=N;const U=(0,i.Ef)(H);U.use(R),U.mount("#app")},8601:function(e,t,o){e.exports=o.p+"img/android_cloudupup.8f05dd73.png"},2685:function(e,t,o){e.exports=o.p+"img/cloudupup.e2acdee2.png"},806:function(e,t,o){e.exports=o.p+"img/ios_shadowrocket.b8af7138.png"},6161:function(e,t,o){e.exports=o.p+"img/ios_update.821a26bc.png"},9457:function(e,t,o){e.exports=o.p+"img/mac_clash.24d8a62f.png"},3101:function(e,t,o){e.exports=o.p+"img/mac_cloudupup.6cef58f5.png"},2634:function(e,t,o){e.exports=o.p+"img/win_clash.9395c359.png"},1682:function(e,t,o){e.exports=o.p+"img/win_clash2.eec24ab3.png"}},t={};function o(i){var n=t[i];if(void 0!==n)return n.exports;var l=t[i]={exports:{}};return e[i].call(l.exports,l,l.exports,o),l.exports}o.m=e,function(){var e=[];o.O=function(t,i,n,l){if(!i){var r=1/0;for(u=0;u<e.length;u++){i=e[u][0],n=e[u][1],l=e[u][2];for(var c=!0,a=0;a<i.length;a++)(!1&l||r>=l)&&Object.keys(o.O).every((function(e){return o.O[e](i[a])}))?i.splice(a--,1):(c=!1,l<r&&(r=l));if(c){e.splice(u--,1);var s=n();void 0!==s&&(t=s)}}return t}l=l||0;for(var u=e.length;u>0&&e[u-1][2]>l;u--)e[u]=e[u-1];e[u]=[i,n,l]}}(),function(){o.n=function(e){var t=e&&e.__esModule?function(){return e["default"]}:function(){return e};return o.d(t,{a:t}),t}}(),function(){o.d=function(e,t){for(var i in t)o.o(t,i)&&!o.o(e,i)&&Object.defineProperty(e,i,{enumerable:!0,get:t[i]})}}(),function(){o.g=function(){if("object"===typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"===typeof window)return window}}()}(),function(){o.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)}}(),function(){o.p=""}(),function(){var e={524:0};o.O.j=function(t){return 0===e[t]};var t=function(t,i){var n,l,r=i[0],c=i[1],a=i[2],s=0;if(r.some((function(t){return 0!==e[t]}))){for(n in c)o.o(c,n)&&(o.m[n]=c[n]);if(a)var u=a(o)}for(t&&t(i);s<r.length;s++)l=r[s],o.o(e,l)&&e[l]&&e[l][0](),e[l]=0;return o.O(u)},i=self["webpackChunkwork"]=self["webpackChunkwork"]||[];i.forEach(t.bind(null,0)),i.push=t.bind(null,i.push.bind(i))}();var i=o.O(void 0,[504],(function(){return o(9164)}));i=o.O(i)})();
-//# sourceMappingURL=app.d5cb8476.js.map
+//# sourceMappingURL=app.95b843b1.js.map
