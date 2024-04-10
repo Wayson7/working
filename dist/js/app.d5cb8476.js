@@ -53,22 +53,22 @@ https://www.todesk.com/download.html`,img:""}],app:[{title:"TikTok无法使用",
 不要使用不稳定的服务器，比如过度共享的IP
 不要使用权重过低的邮箱账户，比如QQ邮箱、163邮箱，建议使用Outlook或Gmail
 不要在同一手机号下注册多个账号
-不要再页面使用中文`,img:""}],ios:[{title:"iOS安装教程",content:String.raw`Apple ID切换教程:
+不要再页面使用中文`,img:""}],ios:[{title:"iOS安装教程",content:String.raw`美区ID切换教程及安装:
 1、登陆官网：
     https://cloudupup.net (复制去浏览器~)
     https://47.122.18.2 (复制去浏览器~)
     https://cloudupup14.com (复制去浏览器~)
-2、 iOS美区共享id,登陆美区ID
+2、主页=>找到 ios安装教程&美区共享id
     （付费用户才能看到共享id）
-3、如果登陆没有跳转美区，从下上滑屏幕，然后在进程中关闭苹果商店，重新打开
-4、登录时，如弹出安全验证，选'其他选择'=>'不升级'
+（如没有跳转美区, 手指从下往上滑动屏幕, 显示运行进程, 关闭AppStore进程后, 重新打开）
+4、登录时, 如弹出安全验证, 选'其他选择'=>'不升级'
 成功进入后:
-5、搜索Shadowrocket（需要pin/推特/ins等，可一块搜索下载）
-6、下载后请退出共享id（共享id会在20分钟后自动修改密码）
-4、苹果自带浏览器登陆'我们的官网'点击=>ios订阅更新（shadowrocket）
-                    
-ios详细教程地址：
-https://help.cloudupup.com/ios/Shadowrocket.html`,img:""},{title:"iOS切换美区ID (图)",content:"",img:o(806)},{title:"iOS更新订阅",content:String.raw`1. 关闭Shadowrocket连接。
+5、搜索shadowrocket（需要pin/推特/ins等, 可一块下载）
+6、下载后退出共享id （共享id 20分钟会自动修改密码）
+4、官网主页最低下找到订阅===> shadowrocket, 点击一键导入, 连接就行了
+
+ios教程地址：
+https://help.cloudupup.com/ios/Shadowrocket.html`,img:""},{title:"(图) iOS切换美区ID",content:"",img:o(806)},{title:"iOS更新订阅",content:String.raw`1. 关闭Shadowrocket连接。
 2. 在小火箭首页, 从左往右滑删除旧线路信息
 3. 使用苹果自带浏览器登录以下官网:
     https://cloudupup.net (复制去浏览器~)
@@ -80,9 +80,9 @@ https://help.cloudupup.com/ios/Shadowrocket.html`,img:""},{title:"iOS切换美�
 5. 返回Shadowrocket,线路已经刷新
 6. 选择任何国家的节点,在Shadowrocket中将全局路由改为'代理'模式,连接即可使用
 
-!!请确保在软件内检查是否过期,并确认是否有足够的流量!!`,img:""},{title:"iOS更新订阅 (图)",content:"",img:o(6161)},{title:"共享ID不可用",content:String.raw`在官网重新登陆刷新一下页面就会刷新出新的共享ID
+!!请确保在软件内检查是否过期,并确认是否有足够的流量!!`,img:""},{title:"(图) iOS更新订阅",content:"",img:o(6161)},{title:"共享ID不可用",content:String.raw`在官网重新登陆刷新一下页面就会刷新出新的共享ID
 可以使用新的美区共享ID登陆
-要记得在20分钟后退出(每20分钟更改一次密码)`,img:""}],windows:[{title:"upup使用教程 (图)",content:"",img:o(2685)},{title:"V2ray更新upup",content:String.raw`v2ray如无法使用，使用新的客户端:cloudupup(红色图标)
+要记得在20分钟后退出(每20分钟更改一次密码)`,img:""}],windows:[{title:"(图) upup使用教程",content:"",img:o(2685)},{title:"V2ray更新upup",content:String.raw`v2ray如无法使用，使用新的客户端:cloudupup(红色图标)
 新客户端更简洁的页面, 更方便的操作
 自动化更新, 内含永久客服, 官网账号密码登录即可。
     https://cloudupup.net (复制去浏览器~)
@@ -113,7 +113,7 @@ https://help.cloudupup.com/win/clash.html`,img:""},{title:"Clash更新教程",co
     https://cloudupup.net
     https://47.122.18.2
     https://cloudupup14.com
-2、登陆个人账号 -> 官网首页右下边 -> 点击 Clash订阅 -> 一键导入`,img:""},{title:"Clash更新教程 (图)",content:"",img:o(1682)},{title:"Clash使用教程 (图)",content:"",img:o(2634)}],mac:[{title:"Mac打开终端方式",content:String.raw`1、您可以选择以下三种操作打开终端:
+2、登陆个人账号 -> 官网首页右下边 -> 点击 Clash订阅 -> 一键导入`,img:""},{title:"(图) Clash更新教程",content:"",img:o(1682)},{title:"(图) Clash使用教程",content:"",img:o(2634)}],mac:[{title:"Mac打开终端方式",content:String.raw`1、您可以选择以下三种操作打开终端:
 (1) 打开启动台=>其他=>终端
 (2) 打开访达=>直接搜索'终端'
 (3) 点击桌面右上角的发动机,搜索'终端'`,img:""},{title:"mac安装使用clash",content:String.raw`mac电脑安装clash教程:
@@ -122,7 +122,7 @@ https://help.cloudupup.com/win/clash.html`,img:""},{title:"Clash更新教程",co
 2、下载完成后点击clash订阅 一键导入即可哦~
 
 mac的clash详细教程：
-https://help.cloudupup.com/mac/clash.html`,img:""},{title:"mac允许未知来源 (图)",content:"",img:o(3101)},{title:"mac导入clash (图)",content:"",img:o(9457)}],android:[{title:"安卓使用教程",content:"",img:o(8601)},{title:"安卓无法使用",content:String.raw`安卓无法使用：
+https://help.cloudupup.com/mac/clash.html`,img:""},{title:"(图) mac允许未知来源",content:"",img:o(3101)},{title:"(图) mac导入clash",content:"",img:o(9457)}],android:[{title:"(图) 安卓使用教程",content:"",img:o(8601)},{title:"安卓无法使用",content:String.raw`安卓无法使用：
 1、多VP冲突，会造成权限被抢占VPN无法使用
 解决：删除所有VPN后，重启手机重装VP
 下载地址：https://cloudupup.net
@@ -142,4 +142,4 @@ https://help.cloudupup.com/mac/clash.html`,img:""},{title:"mac允许未知来源
 下载地址：https://github.com/hideuvpn/android-google-play-store
 
 3. 麻烦提供您所用的线路名称，我们检查一下，您可以先换其他线路测试，可以试试美国等其他线路。`,img:""}]}},getters:{items(e){return e.items},ios(e){return e.ios},windows(e){return e.windows},mac(e){return e.mac},android(e){return e.android},app(e){return e.app}},mutations:{preloadImages(e){const t=[...e.items,...e.app,...e.ios,...e.windows,...e.mac,...e.android];t.forEach((e=>{if(""!==e.img){const t=new Image;t.src=e.img,t.onload=()=>{localStorage.setItem(e.img,t.src)}}}))}},actions:{preloadImages({commit:e}){e("preloadImages")}}});var R=N;const U=(0,i.Ef)(H);U.use(R),U.mount("#app")},8601:function(e,t,o){e.exports=o.p+"img/android_cloudupup.8f05dd73.png"},2685:function(e,t,o){e.exports=o.p+"img/cloudupup.e2acdee2.png"},806:function(e,t,o){e.exports=o.p+"img/ios_shadowrocket.b8af7138.png"},6161:function(e,t,o){e.exports=o.p+"img/ios_update.821a26bc.png"},9457:function(e,t,o){e.exports=o.p+"img/mac_clash.24d8a62f.png"},3101:function(e,t,o){e.exports=o.p+"img/mac_cloudupup.6cef58f5.png"},2634:function(e,t,o){e.exports=o.p+"img/win_clash.9395c359.png"},1682:function(e,t,o){e.exports=o.p+"img/win_clash2.eec24ab3.png"}},t={};function o(i){var n=t[i];if(void 0!==n)return n.exports;var l=t[i]={exports:{}};return e[i].call(l.exports,l,l.exports,o),l.exports}o.m=e,function(){var e=[];o.O=function(t,i,n,l){if(!i){var r=1/0;for(u=0;u<e.length;u++){i=e[u][0],n=e[u][1],l=e[u][2];for(var c=!0,a=0;a<i.length;a++)(!1&l||r>=l)&&Object.keys(o.O).every((function(e){return o.O[e](i[a])}))?i.splice(a--,1):(c=!1,l<r&&(r=l));if(c){e.splice(u--,1);var s=n();void 0!==s&&(t=s)}}return t}l=l||0;for(var u=e.length;u>0&&e[u-1][2]>l;u--)e[u]=e[u-1];e[u]=[i,n,l]}}(),function(){o.n=function(e){var t=e&&e.__esModule?function(){return e["default"]}:function(){return e};return o.d(t,{a:t}),t}}(),function(){o.d=function(e,t){for(var i in t)o.o(t,i)&&!o.o(e,i)&&Object.defineProperty(e,i,{enumerable:!0,get:t[i]})}}(),function(){o.g=function(){if("object"===typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(e){if("object"===typeof window)return window}}()}(),function(){o.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)}}(),function(){o.p=""}(),function(){var e={524:0};o.O.j=function(t){return 0===e[t]};var t=function(t,i){var n,l,r=i[0],c=i[1],a=i[2],s=0;if(r.some((function(t){return 0!==e[t]}))){for(n in c)o.o(c,n)&&(o.m[n]=c[n]);if(a)var u=a(o)}for(t&&t(i);s<r.length;s++)l=r[s],o.o(e,l)&&e[l]&&e[l][0](),e[l]=0;return o.O(u)},i=self["webpackChunkwork"]=self["webpackChunkwork"]||[];i.forEach(t.bind(null,0)),i.push=t.bind(null,i.push.bind(i))}();var i=o.O(void 0,[504],(function(){return o(9164)}));i=o.O(i)})();
-//# sourceMappingURL=app.4ab3e13c.js.map
+//# sourceMappingURL=app.d5cb8476.js.map
