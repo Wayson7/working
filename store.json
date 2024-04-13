@@ -7,6 +7,6 @@
     {
         "title": "测试2",
         "content": "",
-        "img": "https://cloudupup.net/assets/qr.jpg"
+        "img": "@/assets/cloudupup.png"
     }]
 }
