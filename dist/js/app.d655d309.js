@@ -1,19 +1,22 @@
-(function(){"use strict";var t={2993:function(t,o,n){var i=n(5130),e=n(6768),l=n.p+"img/me.8faf4ecd.jpg";const c=(0,e.Lk)("div",{id:"logo"},[(0,e.Lk)("img",{id:"img",alt:"Vue logo",src:l})],-1);function p(t,o,n,i,l,p){const u=(0,e.g2)("HelloWorld");return(0,e.uX)(),(0,e.CE)(e.FK,null,[c,(0,e.bF)(u)],64)}var u=n(4232);const r=t=>((0,e.Qi)("data-v-394732e5"),t=t(),(0,e.jt)(),t),a={id:"hello"},s=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"日常话术")],-1))),d=["onClick","title"],m=["onClick"],g=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),h=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"软件使用话术")],-1))),k=["onClick","title"],w=["onClick"],f=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),C=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"iOS & iPad话术")],-1))),v=["onClick","title"],y=["onClick"],b=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),L=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"Windows话术")],-1))),T=["onClick","title"],I=["onClick"],S=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),x=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"macOS话术")],-1))),O=["onClick","title"],P=["onClick"],E=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),_=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"Android话术")],-1))),D=["onClick","title"],X=["onClick"],A=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),G=r((()=>(0,e.Lk)("div",{style:{clear:"both"}},null,-1))),F=r((()=>(0,e.Lk)("div",{style:{height:"300px"}},null,-1)));function j(t,o,n,l,c,p){return(0,e.uX)(),(0,e.CE)("div",a,[(0,e.Lk)("h2",{id:"notice",style:(0,u.Tr)({opacity:c.noticeOpacity})},null,4),(0,e.Lk)("ul",null,[s,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.items,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,m)],8,d)))),128)),g]),(0,e.Lk)("ul",null,[h,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.app,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,w)],8,k)))),128)),f]),(0,e.Lk)("ul",null,[C,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.ios,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,y)],8,v)))),128)),b]),(0,e.Lk)("ul",null,[L,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.windows,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,I)],8,T)))),128)),S]),(0,e.Lk)("ul",null,[x,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.mac,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,P)],8,O)))),128)),E]),(0,e.Lk)("ul",null,[_,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.android,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,X)],8,D)))),128)),A]),G,F])}var $=n(782),K={name:"HelloWorld",data(){return{noticeOpacity:0}},computed:{...(0,$.L8)(["items","app","ios","windows","mac","android"])},methods:{async copyToClipboard(t){try{if(!navigator.clipboard)return void console.error("Clipboard API is not supported.");await navigator.clipboard.writeText(t),console.log("内容已成功复制到剪贴板")}catch(o){console.error("复制到剪贴板失败：",o)}},async copyImageOrTextToClipboard(t){try{let o="";if(""===t.content){if(""===t.img)return void console.error("无可复制内容");const n=await fetch(t.img).then((t=>t.blob())),i=new ClipboardItem({"image/png":n});await navigator.clipboard.write([i]),o="图片"}else await this.copyToClipboard(t.content),o="文字";this.noticeOpacity=1,document.getElementById("notice").innerText=`${o}复制成功`,setTimeout((()=>{this.noticeOpacity=0,document.getElementById("notice").innerText=""}),1e3)}catch(o){console.error("复制到剪贴板失败：",o)}}}},V=n(1241);const W=(0,V.A)(K,[["render",j],["__scopeId","data-v-394732e5"]]);var H=W,M={name:"App",components:{HelloWorld:H}};const Q=(0,V.A)(M,[["render",p]]);var B=Q;const N=(0,$.y$)({state(){return{items:[{title:"最新公告",content:"",img:n(8369)},{title:"官网下载",content:String.raw`请登陆并收藏以下官网:
-永久域名: https://cloudupup.net (复制去浏览器~)
-备用1: https://47.122.18.2 (复制去浏览器~)
+(function(){"use strict";var t={2993:function(t,o,n){var i=n(5130),e=n(6768),l=n.p+"img/me.8faf4ecd.jpg";const c=(0,e.Lk)("div",{id:"logo"},[(0,e.Lk)("img",{id:"img",alt:"Vue logo",src:l})],-1);function p(t,o,n,i,l,p){const u=(0,e.g2)("HelloWorld");return(0,e.uX)(),(0,e.CE)(e.FK,null,[c,(0,e.bF)(u)],64)}var u=n(4232);const r=t=>((0,e.Qi)("data-v-394732e5"),t=t(),(0,e.jt)(),t),a={id:"hello"},s=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"日常话术")],-1))),d=["onClick","title"],m=["onClick"],g=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),h=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"软件使用话术")],-1))),k=["onClick","title"],w=["onClick"],f=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),C=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"iOS & iPad话术")],-1))),v=["onClick","title"],y=["onClick"],b=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),L=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"Windows话术")],-1))),T=["onClick","title"],I=["onClick"],S=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),x=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"macOS话术")],-1))),O=["onClick","title"],P=["onClick"],E=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),_=r((()=>(0,e.Lk)("div",{class:"title"},[(0,e.Lk)("span",null,"Android话术")],-1))),D=["onClick","title"],X=["onClick"],A=r((()=>(0,e.Lk)("li",{style:{"list-style":"none",clear:"both"}},null,-1))),G=r((()=>(0,e.Lk)("div",{style:{clear:"both"}},null,-1))),F=r((()=>(0,e.Lk)("div",{style:{height:"300px"}},null,-1)));function j(t,o,n,l,c,p){return(0,e.uX)(),(0,e.CE)("div",a,[(0,e.Lk)("h2",{id:"notice",style:(0,u.Tr)({opacity:c.noticeOpacity})},null,4),(0,e.Lk)("ul",null,[s,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.items,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,m)],8,d)))),128)),g]),(0,e.Lk)("ul",null,[h,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.app,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,w)],8,k)))),128)),f]),(0,e.Lk)("ul",null,[C,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.ios,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,y)],8,v)))),128)),b]),(0,e.Lk)("ul",null,[L,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.windows,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,I)],8,T)))),128)),S]),(0,e.Lk)("ul",null,[x,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.mac,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,P)],8,O)))),128)),E]),(0,e.Lk)("ul",null,[_,((0,e.uX)(!0),(0,e.CE)(e.FK,null,(0,e.pI)(t.android,((t,o)=>((0,e.uX)(),(0,e.CE)("li",{class:"box",key:o,onClick:o=>p.copyImageOrTextToClipboard(t),title:t.content},[(0,e.Lk)("span",null,(0,u.v_)(t.title),1),(0,e.Lk)("div",{class:"preview",onClick:(0,i.D$)((o=>p.copyImageOrTextToClipboard(t)),["stop"])},null,8,X)],8,D)))),128)),A]),G,F])}var $=n(782),K={name:"HelloWorld",data(){return{noticeOpacity:0}},computed:{...(0,$.L8)(["items","app","ios","windows","mac","android"])},methods:{async copyToClipboard(t){try{if(!navigator.clipboard)return void console.error("Clipboard API is not supported.");await navigator.clipboard.writeText(t),console.log("内容已成功复制到剪贴板")}catch(o){console.error("复制到剪贴板失败：",o)}},async copyImageOrTextToClipboard(t){try{let o="";if(""===t.content){if(""===t.img)return void console.error("无可复制内容");const n=await fetch(t.img).then((t=>t.blob())),i=new ClipboardItem({"image/png":n});await navigator.clipboard.write([i]),o="图片"}else await this.copyToClipboard(t.content),o="文字";this.noticeOpacity=1,document.getElementById("notice").innerText=`${o}复制成功`,setTimeout((()=>{this.noticeOpacity=0,document.getElementById("notice").innerText=""}),1e3)}catch(o){console.error("复制到剪贴板失败：",o)}}}},V=n(1241);const W=(0,V.A)(K,[["render",j],["__scopeId","data-v-394732e5"]]);var H=W,M={name:"App",components:{HelloWorld:H}};const Q=(0,V.A)(M,[["render",p]]);var B=Q;const N=(0,$.y$)({state(){return{items:[{title:"官网下载",content:String.raw`请登陆并以下官网:
+永久域名: https://cloudupup.net
+备用1: https://47.122.18.2
 备用2: https://u01.cloudupup02.com
-备用3: https://u02.cloudupup01.com (复制去浏览器~)
+备用3: https://u02.cloudupup01.com
 
- ~新用户~ios
+(复制去浏览器打开~)
+
+ ~新用户~
 注册、购买套餐、下载软件、导入订阅地址。
  ~老用户~：
  官网续费、更新订阅/线路、下载新客户端
 
 安装教程：
 https://help.cloudupup.com
-永久在线客服,保持联系,谢谢!`,img:""},{title:"描述详细些",content:String.raw`您好, 详细描述一下您的问题哦~这边方便帮您排查一下~最好是可以直接提供截图或视频~`,img:""},{title:"GPT,iOS等账号销售",content:String.raw`这边有GPT3.5和4.0, 谷歌账号, iOS ID正在销售
+永久在线客服,保持联系,谢谢!`,img:""},{title:"最新公告",content:"",img:n(8369)},{title:"描述详细些",content:String.raw`您好, 详细描述一下您的问题哦~这边方便帮您排查一下~最好是可以直接提供截图或视频~`,img:""},{title:"GPT,iOS等账号销售",content:String.raw`这边有GPT3.5和4.0, 谷歌账号, iOS ID正在销售
     
-    https://idinshop.com/ (复制去浏览器哦~)
+https://idinshop.com/
+(复制去浏览器打开哦~)
 
 您可以进入链接查看更详细产品介绍`,img:""},{title:"年卡七折/优惠",content:String.raw`年卡:190元--月卡22元*12=264元
 年卡是月卡的7折，可以冲
@@ -65,12 +68,13 @@ https://www.todesk.com/download.html`,img:""}],app:[{title:"TikTok无法使用",
     （付费用户才能看到共享id）
 （如没有跳转美区, 手指从下往上滑动屏幕, 显示运行进程, 关闭AppStore进程后, 重新打开）
 4、登录时, 如弹出安全验证, 选'其他选择'=>'不升级'
+
 成功进入后:
 5、搜索shadowrocket（需要pin/推特/ins等, 可一块下载）
 6、下载后退出共享id （共享id 20分钟会自动修改密码）
 4、官网主页最低下找到订阅===> shadowrocket, 点击一键导入, 连接就行了
 
-ios教程地址：
+ios更加详细的教程地址：
 https://help.cloudupup.com/ios/Shadowrocket.html`,img:""},{title:"(图) iOS切换美区ID",content:"",img:n(806)},{title:"iOS更新订阅",content:String.raw`1. 关闭Shadowrocket连接。
 2. 在小火箭首页, 从左往右滑删除旧线路信息
 3. 使用苹果自带浏览器登录以下官网:
@@ -79,14 +83,13 @@ https://help.cloudupup.com/ios/Shadowrocket.html`,img:""},{title:"(图) iOS切�
 备用1: https://47.122.18.2
 备用2: https://u01.cloudupup02.com
 备用3: https://u02.cloudupup01.com
-（替换原有的订阅地址）
 4. 在官网底部找到订阅地址,选择Shadowrocket,然后点击'一键导入'
     (也可以点击美区ID下方的'更新订阅'一键导入)
 5. 返回Shadowrocket,线路已经刷新
 6. 选择任何国家的节点,在Shadowrocket中将全局路由改为'代理'模式,连接即可使用
 
 !!请确保在软件内检查是否过期,并确认是否有足够的流量!!`,img:""},{title:"(图) iOS更新订阅",content:"",img:n(6161)},{title:"美区ID无法登录",content:String.raw`美区id无法登录：
-1、您需要用手机开热点 ipad链接，或者手机用数据方式链接，因为美国appstore是苹果内网，对大陆的宽带网络不友好，被中国限制，手机流量4g/5g网络可以
+1、您需要用手机开热点 ipad链接，或者手机用数据方式链接，因为美国app store是苹果内网，对大陆的宽带网络不友好，被中国限制，手机流量4g/5g网络可以
 2、如果是安全问题，您选择，其他选项，不升级
 3、如果id有问题，换其他id尝试即可
 (在官网重新登陆刷新一下页面就会刷新出新的共享ID)
@@ -129,8 +132,9 @@ https://help.cloudupup.com/win/clash.html`,img:""},{title:"Clash更新教程",co
 备用1: https://47.122.18.2
 备用2: https://u01.cloudupup02.com
 备用3: https://u02.cloudupup01.com
-2、登陆个人账号 -> 官网首页右下边 -> 点击 Clash订阅 -> 一键导入`,img:""},{title:"(图) Clash更新教程",content:"",img:n(1682)},{title:"(图) Clash使用教程",content:"",img:n(2634)}],mac:[{title:"(图) upup使用教程",content:"",img:n(2685)},{title:"Mac安装使用upup",content:String.raw`用cloudup客户端（自动化客户端）永久在线客服。
-可收藏永久域名(复制去浏览器打开):永久域名: https://cloudupup.net
+2、登陆个人账号h后 -> 官网首页右下边 -> 点击 Clash订阅 -> 使用一键导入`,img:""},{title:"(图) Clash更新教程",content:"",img:n(1682)},{title:"(图) Clash使用教程",content:"",img:n(2634)}],mac:[{title:"(图) upup使用教程",content:"",img:n(2685)},{title:"Mac安装使用upup",content:String.raw`用cloudup客户端（自动化客户端）永久在线客服。
+可收藏永久域名(复制去浏览器打开):
+永久域名: https://cloudupup.net
 备用1: http://47.122.18.2: http://u01.cloudupup02.com
 备用3: https://u02.cloudu1.com
 ！！ins/pin/领英/X等社交上角设置全局模式！
@@ -138,7 +142,8 @@ https://help.cloudupup.com/win/clash.html`,img:""},{title:"Clash更新教程",co
 https://help.cloudupup.com/mac/upupformac.html
 cloudupup 电脑macbook操作说明`,img:""},{title:"mac安装使用clash",content:String.raw`mac电脑安装clash教程:
 1、登陆官网后往下拉
-(复制去浏览器打开~)永久域名: https://cloudupup.net
+(复制去浏览器打开~)
+永久域名: https://cloudupup.net
 备用1: http://47.12.2
 备用2: http://u01.cupup02.com
 备用3: https://u02.dupup01.com
@@ -149,13 +154,13 @@ cloudupup 电脑macbook操作说明`,img:""},{title:"mac安装使用clash",conte
 
 mac的clash详细教程：
 https://help.cloudupup.com/mac/clash.html`,img:""},{title:"(图) mac更新导入clash",content:"",img:n(9457)},{title:"(图) mac无法使用",content:"",img:n(3101)},{title:"Mac打开终端方式",content:String.raw`1、您可以选择以下三种操作打开终端:
-(1) 打开启动台=>其他=>终端
-(2) 打开访达=>直接搜索'终端'
+(1) 打开启动台 => 找到'其他' => 终端
+(2) 打开访达 => 直接搜索'终端'
 (3) 点击桌面右上角的发动机,搜索'终端'`,img:""}],android:[{title:"(图) Android使用教程",content:"",img:n(8601)},{title:"Android安装下载",content:String.raw`使用新的客户端:cloudupup(红色图标)
 更简洁的页面, 更方便的操作, 更多的线路
 自动化更新, 内含永久客服, 官网账号密码登录即可
 
-1、登陆官网后往下拉(复制去浏览器打开~)
+1、(复制去浏览器打开~) 登陆官网后 往下拉
 永久域名: https://cloudupup.net
 备用1: http://47.12.2
 备用2: http://u01.cupup02.com
@@ -182,4 +187,4 @@ https://help.cloudupup.com/mac/clash.html`,img:""},{title:"(图) mac更新导入
 下载地址：https://github.com/hideuvpn/android-google-play-store
 
 3. 麻烦提供您所用的线路名称，我们检查一下，您可以先换其他线路测试，可以试试美国等其他线路。`,img:""}]}},getters:{items(t){return t.items},ios(t){return t.ios},windows(t){return t.windows},mac(t){return t.mac},android(t){return t.android},app(t){return t.app}},mutations:{preloadImages(t){const o=[...t.items,...t.app,...t.ios,...t.windows,...t.mac,...t.android];o.forEach((t=>{if(""!==t.img){const o=new Image;o.src=t.img,o.onload=()=>{localStorage.setItem(t.img,o.src)}}}))}},actions:{preloadImages({commit:t}){t("preloadImages")}}});var Y=N;const q=(0,i.Ef)(B);q.use(Y),q.mount("#app")},8601:function(t,o,n){t.exports=n.p+"img/android_cloudupup.8f05dd73.png"},2685:function(t,o,n){t.exports=n.p+"img/cloudupup.e2acdee2.png"},8369:function(t,o,n){t.exports=n.p+"img/image.ced91431.png"},806:function(t,o,n){t.exports=n.p+"img/ios_shadowrocket.b8af7138.png"},8324:function(t,o,n){t.exports=n.p+"img/ios_storeid.b78d8c54.png"},6161:function(t,o,n){t.exports=n.p+"img/ios_update.0e226c94.png"},9457:function(t,o,n){t.exports=n.p+"img/mac_clash.24d8a62f.png"},3101:function(t,o,n){t.exports=n.p+"img/mac_cloudupup.6cef58f5.png"},2634:function(t,o,n){t.exports=n.p+"img/win_clash.9395c359.png"},1682:function(t,o,n){t.exports=n.p+"img/win_clash2.eec24ab3.png"}},o={};function n(i){var e=o[i];if(void 0!==e)return e.exports;var l=o[i]={exports:{}};return t[i].call(l.exports,l,l.exports,n),l.exports}n.m=t,function(){var t=[];n.O=function(o,i,e,l){if(!i){var c=1/0;for(a=0;a<t.length;a++){i=t[a][0],e=t[a][1],l=t[a][2];for(var p=!0,u=0;u<i.length;u++)(!1&l||c>=l)&&Object.keys(n.O).every((function(t){return n.O[t](i[u])}))?i.splice(u--,1):(p=!1,l<c&&(c=l));if(p){t.splice(a--,1);var r=e();void 0!==r&&(o=r)}}return o}l=l||0;for(var a=t.length;a>0&&t[a-1][2]>l;a--)t[a]=t[a-1];t[a]=[i,e,l]}}(),function(){n.n=function(t){var o=t&&t.__esModule?function(){return t["default"]}:function(){return t};return n.d(o,{a:o}),o}}(),function(){n.d=function(t,o){for(var i in o)n.o(o,i)&&!n.o(t,i)&&Object.defineProperty(t,i,{enumerable:!0,get:o[i]})}}(),function(){n.g=function(){if("object"===typeof globalThis)return globalThis;try{return this||new Function("return this")()}catch(t){if("object"===typeof window)return window}}()}(),function(){n.o=function(t,o){return Object.prototype.hasOwnProperty.call(t,o)}}(),function(){n.p=""}(),function(){var t={524:0};n.O.j=function(o){return 0===t[o]};var o=function(o,i){var e,l,c=i[0],p=i[1],u=i[2],r=0;if(c.some((function(o){return 0!==t[o]}))){for(e in p)n.o(p,e)&&(n.m[e]=p[e]);if(u)var a=u(n)}for(o&&o(i);r<c.length;r++)l=c[r],n.o(t,l)&&t[l]&&t[l][0](),t[l]=0;return n.O(a)},i=self["webpackChunkwork"]=self["webpackChunkwork"]||[];i.forEach(o.bind(null,0)),i.push=o.bind(null,i.push.bind(i))}();var i=n.O(void 0,[504],(function(){return n(2993)}));i=n.O(i)})();
-//# sourceMappingURL=app.f6a3c5d8.js.map
+//# sourceMappingURL=app.d655d309.js.map
